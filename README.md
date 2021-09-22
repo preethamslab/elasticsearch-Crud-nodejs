@@ -2,6 +2,8 @@
 This repository is for elastic search
 
 
+Refer to the tutorial: https://preethamumarani.medium.com/elk-setup-and-nodejs-integration-with-basic-query-types-d74e36f4d31c
+
 https://github.com/preethamslab/docker-elk
 
 refer to this for installation. credits: deviantony, for easy setup.
